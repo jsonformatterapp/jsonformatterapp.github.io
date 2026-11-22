@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jsonformatter.github.io/sitemap.xml
